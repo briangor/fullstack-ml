@@ -1,2 +1,2 @@
-# fullstack-ml
-A fullstack application with ML implementation. 
+# Movie Recommendation
+A fullstack movie recommendation application with ML implementation. 
