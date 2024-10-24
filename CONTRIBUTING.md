@@ -130,8 +130,3 @@ Enhancement suggestions are tracked as [GitHub issues](/issues).
 
 
 ## Join The Project Team
-
-
-
-## Attribution
-This guide is based on the **contributing.md**. [Make your own](https://contributing.md/)!
